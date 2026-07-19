@@ -28,6 +28,7 @@ Learning...
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DhannuSingh/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/DhannuSingh/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/DhannuSingh/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/DhannuSingh/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Array
 |  |
 | ------- |
@@ -63,6 +64,7 @@ Learning...
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DhannuSingh/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DhannuSingh/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/DhannuSingh/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Counting
 |  |
 | ------- |
