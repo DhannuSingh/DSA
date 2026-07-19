@@ -15,6 +15,7 @@ Learning...
 | [0925-long-pressed-name](https://github.com/DhannuSingh/DSA/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/DhannuSingh/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/DhannuSingh/DSA/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/DhannuSingh/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
 | ------- |
@@ -25,12 +26,14 @@ Learning...
 | [0844-backspace-string-compare](https://github.com/DhannuSingh/DSA/tree/master/0844-backspace-string-compare) |
 | [0925-long-pressed-name](https://github.com/DhannuSingh/DSA/tree/master/0925-long-pressed-name) |
 | [2000-reverse-prefix-of-word](https://github.com/DhannuSingh/DSA/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/DhannuSingh/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Array
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/DhannuSingh/DSA/tree/master/0283-move-zeroes) |
 | [0821-shortest-distance-to-a-character](https://github.com/DhannuSingh/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0977-squares-of-a-sorted-array](https://github.com/DhannuSingh/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/DhannuSingh/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
 |  |
 | ------- |
