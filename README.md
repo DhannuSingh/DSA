@@ -69,4 +69,8 @@ Learning...
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DhannuSingh/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/DhannuSingh/DSA/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
