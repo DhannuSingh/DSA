@@ -33,6 +33,7 @@ Learning...
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/DhannuSingh/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/DhannuSingh/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/DhannuSingh/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0283-move-zeroes](https://github.com/DhannuSingh/DSA/tree/master/0283-move-zeroes) |
@@ -63,6 +64,7 @@ Learning...
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/DhannuSingh/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/DhannuSingh/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/DhannuSingh/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0264-ugly-number-ii](https://github.com/DhannuSingh/DSA/tree/master/0264-ugly-number-ii) |
@@ -90,4 +92,8 @@ Learning...
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/DhannuSingh/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/DhannuSingh/DSA/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
