@@ -84,6 +84,7 @@ Learning...
 | [1695-maximum-erasure-value](https://github.com/DhannuSingh/DSA/tree/master/1695-maximum-erasure-value) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DhannuSingh/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/DhannuSingh/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/DhannuSingh/DSA/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -146,6 +147,7 @@ Learning...
 | [1695-maximum-erasure-value](https://github.com/DhannuSingh/DSA/tree/master/1695-maximum-erasure-value) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DhannuSingh/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DhannuSingh/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/DhannuSingh/DSA/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/DhannuSingh/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Counting
 |  |
