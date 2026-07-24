@@ -81,6 +81,7 @@ Learning...
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DhannuSingh/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DhannuSingh/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DhannuSingh/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1695-maximum-erasure-value](https://github.com/DhannuSingh/DSA/tree/master/1695-maximum-erasure-value) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DhannuSingh/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/DhannuSingh/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
@@ -125,6 +126,7 @@ Learning...
 | [0567-permutation-in-string](https://github.com/DhannuSingh/DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/DhannuSingh/DSA/tree/master/0904-fruit-into-baskets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DhannuSingh/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1695-maximum-erasure-value](https://github.com/DhannuSingh/DSA/tree/master/1695-maximum-erasure-value) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DhannuSingh/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
 |  |
@@ -141,6 +143,7 @@ Learning...
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DhannuSingh/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DhannuSingh/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DhannuSingh/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1695-maximum-erasure-value](https://github.com/DhannuSingh/DSA/tree/master/1695-maximum-erasure-value) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DhannuSingh/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DhannuSingh/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/DhannuSingh/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
