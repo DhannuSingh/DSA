@@ -77,6 +77,7 @@ Learning...
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/DhannuSingh/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0554-brick-wall](https://github.com/DhannuSingh/DSA/tree/master/0554-brick-wall) |
 | [0713-subarray-product-less-than-k](https://github.com/DhannuSingh/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/DhannuSingh/DSA/tree/master/0724-find-pivot-index) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/DhannuSingh/DSA/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0821-shortest-distance-to-a-character](https://github.com/DhannuSingh/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0904-fruit-into-baskets](https://github.com/DhannuSingh/DSA/tree/master/0904-fruit-into-baskets) |
@@ -224,6 +225,7 @@ Learning...
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/DhannuSingh/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/DhannuSingh/DSA/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/DhannuSingh/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/DhannuSingh/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/DhannuSingh/DSA/tree/master/1208-get-equal-substrings-within-budget) |
