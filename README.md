@@ -74,6 +74,7 @@ Learning...
 | [0442-find-all-duplicates-in-an-array](https://github.com/DhannuSingh/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/DhannuSingh/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0554-brick-wall](https://github.com/DhannuSingh/DSA/tree/master/0554-brick-wall) |
+| [0713-subarray-product-less-than-k](https://github.com/DhannuSingh/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/DhannuSingh/DSA/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0821-shortest-distance-to-a-character](https://github.com/DhannuSingh/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0904-fruit-into-baskets](https://github.com/DhannuSingh/DSA/tree/master/0904-fruit-into-baskets) |
@@ -138,6 +139,7 @@ Learning...
 | [0424-longest-repeating-character-replacement](https://github.com/DhannuSingh/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DhannuSingh/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/DhannuSingh/DSA/tree/master/0567-permutation-in-string) |
+| [0713-subarray-product-less-than-k](https://github.com/DhannuSingh/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/DhannuSingh/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/DhannuSingh/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/DhannuSingh/DSA/tree/master/1208-get-equal-substrings-within-budget) |
@@ -189,6 +191,7 @@ Learning...
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DhannuSingh/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0713-subarray-product-less-than-k](https://github.com/DhannuSingh/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/DhannuSingh/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/DhannuSingh/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DhannuSingh/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -201,6 +204,7 @@ Learning...
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/DhannuSingh/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/DhannuSingh/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/DhannuSingh/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DhannuSingh/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
