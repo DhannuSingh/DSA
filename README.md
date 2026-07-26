@@ -211,6 +211,7 @@ Learning...
 | ------- |
 | [0035-search-insert-position](https://github.com/DhannuSingh/DSA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DhannuSingh/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0374-guess-number-higher-or-lower](https://github.com/DhannuSingh/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/DhannuSingh/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/DhannuSingh/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/DhannuSingh/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -243,4 +244,8 @@ Learning...
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/DhannuSingh/DSA/tree/master/0303-range-sum-query-immutable) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/DhannuSingh/DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
