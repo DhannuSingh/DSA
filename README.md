@@ -182,6 +182,7 @@ Learning...
 | [0007-reverse-integer](https://github.com/DhannuSingh/DSA/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/DhannuSingh/DSA/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/DhannuSingh/DSA/tree/master/0264-ugly-number-ii) |
+| [0367-valid-perfect-square](https://github.com/DhannuSingh/DSA/tree/master/0367-valid-perfect-square) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -212,6 +213,7 @@ Learning...
 | [0035-search-insert-position](https://github.com/DhannuSingh/DSA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DhannuSingh/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/DhannuSingh/DSA/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/DhannuSingh/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/DhannuSingh/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/DhannuSingh/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/DhannuSingh/DSA/tree/master/0713-subarray-product-less-than-k) |
