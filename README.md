@@ -93,6 +93,7 @@ Learning...
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DhannuSingh/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DhannuSingh/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/DhannuSingh/DSA/tree/master/1695-maximum-erasure-value) |
+| [1732-find-the-highest-altitude](https://github.com/DhannuSingh/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DhannuSingh/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/DhannuSingh/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DhannuSingh/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -243,6 +244,7 @@ Learning...
 | [1208-get-equal-substrings-within-budget](https://github.com/DhannuSingh/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DhannuSingh/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DhannuSingh/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1732-find-the-highest-altitude](https://github.com/DhannuSingh/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DhannuSingh/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/DhannuSingh/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Design
