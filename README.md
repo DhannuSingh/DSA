@@ -77,6 +77,7 @@ Learning...
 | [0442-find-all-duplicates-in-an-array](https://github.com/DhannuSingh/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/DhannuSingh/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0554-brick-wall](https://github.com/DhannuSingh/DSA/tree/master/0554-brick-wall) |
+| [0704-binary-search](https://github.com/DhannuSingh/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/DhannuSingh/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/DhannuSingh/DSA/tree/master/0724-find-pivot-index) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/DhannuSingh/DSA/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
@@ -208,6 +209,7 @@ Learning...
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DhannuSingh/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/DhannuSingh/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/DhannuSingh/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/DhannuSingh/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/DhannuSingh/DSA/tree/master/1208-get-equal-substrings-within-budget) |
