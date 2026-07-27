@@ -26,6 +26,7 @@ Learning...
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/DhannuSingh/DSA/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0821-shortest-distance-to-a-character](https://github.com/DhannuSingh/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/DhannuSingh/DSA/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/DhannuSingh/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0925-long-pressed-name](https://github.com/DhannuSingh/DSA/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/DhannuSingh/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/DhannuSingh/DSA/tree/master/1768-merge-strings-alternately) |
@@ -266,4 +267,5 @@ Learning...
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/DhannuSingh/DSA/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/DhannuSingh/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
