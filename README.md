@@ -41,6 +41,7 @@ Learning...
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DhannuSingh/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0043-multiply-strings](https://github.com/DhannuSingh/DSA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/DhannuSingh/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/DhannuSingh/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/DhannuSingh/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -129,6 +130,7 @@ Learning...
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/DhannuSingh/DSA/tree/master/0043-multiply-strings) |
 | [0844-backspace-string-compare](https://github.com/DhannuSingh/DSA/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
@@ -193,6 +195,7 @@ Learning...
 | ------- |
 | [0007-reverse-integer](https://github.com/DhannuSingh/DSA/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/DhannuSingh/DSA/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/DhannuSingh/DSA/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/DhannuSingh/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/DhannuSingh/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/DhannuSingh/DSA/tree/master/0202-happy-number) |
