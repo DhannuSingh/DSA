@@ -192,6 +192,7 @@ Learning...
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/DhannuSingh/DSA/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/DhannuSingh/DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/DhannuSingh/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/DhannuSingh/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/DhannuSingh/DSA/tree/master/0202-happy-number) |
@@ -213,6 +214,7 @@ Learning...
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/DhannuSingh/DSA/tree/master/0029-divide-two-integers) |
 | [0187-repeated-dna-sequences](https://github.com/DhannuSingh/DSA/tree/master/0187-repeated-dna-sequences) |
 ## Rolling Hash
 |  |
