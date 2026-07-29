@@ -301,4 +301,8 @@ Learning...
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DhannuSingh/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/DhannuSingh/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
