@@ -30,6 +30,7 @@ Learning...
 | [0821-shortest-distance-to-a-character](https://github.com/DhannuSingh/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/DhannuSingh/DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/DhannuSingh/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [0922-sort-array-by-parity-ii](https://github.com/DhannuSingh/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/DhannuSingh/DSA/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/DhannuSingh/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/DhannuSingh/DSA/tree/master/1768-merge-strings-alternately) |
@@ -94,6 +95,7 @@ Learning...
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/DhannuSingh/DSA/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0821-shortest-distance-to-a-character](https://github.com/DhannuSingh/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0904-fruit-into-baskets](https://github.com/DhannuSingh/DSA/tree/master/0904-fruit-into-baskets) |
+| [0922-sort-array-by-parity-ii](https://github.com/DhannuSingh/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/DhannuSingh/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/DhannuSingh/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/DhannuSingh/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -122,6 +124,7 @@ Learning...
 | [0049-group-anagrams](https://github.com/DhannuSingh/DSA/tree/master/0049-group-anagrams) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DhannuSingh/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/DhannuSingh/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0922-sort-array-by-parity-ii](https://github.com/DhannuSingh/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/DhannuSingh/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DhannuSingh/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DhannuSingh/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
