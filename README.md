@@ -77,6 +77,7 @@ Learning...
 | [0035-search-insert-position](https://github.com/DhannuSingh/DSA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/DhannuSingh/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/DhannuSingh/DSA/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/DhannuSingh/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DhannuSingh/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/DhannuSingh/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DhannuSingh/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -227,6 +228,7 @@ Learning...
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/DhannuSingh/DSA/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/DhannuSingh/DSA/tree/master/0074-search-a-2d-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -245,6 +247,7 @@ Learning...
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DhannuSingh/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/DhannuSingh/DSA/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/DhannuSingh/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DhannuSingh/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/DhannuSingh/DSA/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/DhannuSingh/DSA/tree/master/0367-valid-perfect-square) |
