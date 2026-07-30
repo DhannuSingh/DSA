@@ -82,6 +82,7 @@ Learning...
 | [0128-longest-consecutive-sequence](https://github.com/DhannuSingh/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DhannuSingh/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/DhannuSingh/DSA/tree/master/0189-rotate-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/DhannuSingh/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/DhannuSingh/DSA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/DhannuSingh/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DhannuSingh/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -229,6 +230,7 @@ Learning...
 | ------- |
 | [0036-valid-sudoku](https://github.com/DhannuSingh/DSA/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/DhannuSingh/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/DhannuSingh/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -249,6 +251,7 @@ Learning...
 | [0035-search-insert-position](https://github.com/DhannuSingh/DSA/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/DhannuSingh/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DhannuSingh/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/DhannuSingh/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/DhannuSingh/DSA/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/DhannuSingh/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/DhannuSingh/DSA/tree/master/0374-guess-number-higher-or-lower) |
@@ -320,6 +323,7 @@ Learning...
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DhannuSingh/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0240-search-a-2d-matrix-ii](https://github.com/DhannuSingh/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Database
 |  |
 | ------- |
