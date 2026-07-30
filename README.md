@@ -74,6 +74,7 @@ Learning...
 | [0015-3sum](https://github.com/DhannuSingh/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/DhannuSingh/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/DhannuSingh/DSA/tree/master/0018-4sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DhannuSingh/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DhannuSingh/DSA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/DhannuSingh/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/DhannuSingh/DSA/tree/master/0049-group-anagrams) |
@@ -248,6 +249,7 @@ Learning...
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DhannuSingh/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DhannuSingh/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DhannuSingh/DSA/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/DhannuSingh/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DhannuSingh/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
