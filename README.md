@@ -119,6 +119,7 @@ Learning...
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DhannuSingh/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DhannuSingh/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DhannuSingh/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DhannuSingh/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/DhannuSingh/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DhannuSingh/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/DhannuSingh/DSA/tree/master/1695-maximum-erasure-value) |
@@ -163,6 +164,7 @@ Learning...
 | [0264-ugly-number-ii](https://github.com/DhannuSingh/DSA/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/DhannuSingh/DSA/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DhannuSingh/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DhannuSingh/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -237,6 +239,7 @@ Learning...
 | [0441-arranging-coins](https://github.com/DhannuSingh/DSA/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/DhannuSingh/DSA/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/DhannuSingh/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DhannuSingh/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -315,6 +318,7 @@ Learning...
 | [1208-get-equal-substrings-within-budget](https://github.com/DhannuSingh/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/DhannuSingh/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DhannuSingh/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DhannuSingh/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DhannuSingh/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/DhannuSingh/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DhannuSingh/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
