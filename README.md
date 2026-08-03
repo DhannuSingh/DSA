@@ -67,6 +67,7 @@ Learning...
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DhannuSingh/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/DhannuSingh/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/DhannuSingh/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2055-plates-between-candles](https://github.com/DhannuSingh/DSA/tree/master/2055-plates-between-candles) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/DhannuSingh/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/DhannuSingh/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Array
@@ -129,6 +130,7 @@ Learning...
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DhannuSingh/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DhannuSingh/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/DhannuSingh/DSA/tree/master/1991-find-the-middle-index-in-array) |
+| [2055-plates-between-candles](https://github.com/DhannuSingh/DSA/tree/master/2055-plates-between-candles) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/DhannuSingh/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/DhannuSingh/DSA/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 ## Sorting
@@ -296,6 +298,7 @@ Learning...
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DhannuSingh/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/DhannuSingh/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/DhannuSingh/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2055-plates-between-candles](https://github.com/DhannuSingh/DSA/tree/master/2055-plates-between-candles) |
 ## Greedy
 |  |
 | ------- |
@@ -324,6 +327,7 @@ Learning...
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DhannuSingh/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1991-find-the-middle-index-in-array](https://github.com/DhannuSingh/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/DhannuSingh/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2055-plates-between-candles](https://github.com/DhannuSingh/DSA/tree/master/2055-plates-between-candles) |
 ## Design
 |  |
 | ------- |
