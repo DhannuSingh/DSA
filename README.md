@@ -40,6 +40,7 @@ Learning...
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/DhannuSingh/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DhannuSingh/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/DhannuSingh/DSA/tree/master/2000-reverse-prefix-of-word) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DhannuSingh/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/DhannuSingh/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
@@ -358,6 +359,7 @@ Learning...
 | [0328-odd-even-linked-list](https://github.com/DhannuSingh/DSA/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/DhannuSingh/DSA/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/DhannuSingh/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DhannuSingh/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
