@@ -167,6 +167,7 @@ Learning...
 | [0049-group-anagrams](https://github.com/DhannuSingh/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/DhannuSingh/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/DhannuSingh/DSA/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/DhannuSingh/DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DhannuSingh/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/DhannuSingh/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/DhannuSingh/DSA/tree/master/0202-happy-number) |
@@ -313,6 +314,7 @@ Learning...
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/DhannuSingh/DSA/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/DhannuSingh/DSA/tree/master/0303-range-sum-query-immutable) |
 ## Interactive
 |  |
@@ -329,6 +331,7 @@ Learning...
 | [0092-reverse-linked-list-ii](https://github.com/DhannuSingh/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/DhannuSingh/DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/DhannuSingh/DSA/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/DhannuSingh/DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DhannuSingh/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/DhannuSingh/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/DhannuSingh/DSA/tree/master/0206-reverse-linked-list) |
@@ -354,4 +357,8 @@ Learning...
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/DhannuSingh/DSA/tree/master/0175-combine-two-tables) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/DhannuSingh/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
