@@ -65,6 +65,7 @@ Learning...
 | [0925-long-pressed-name](https://github.com/DhannuSingh/DSA/tree/master/0925-long-pressed-name) |
 | [1208-get-equal-substrings-within-budget](https://github.com/DhannuSingh/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DhannuSingh/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1544-make-the-string-great](https://github.com/DhannuSingh/DSA/tree/master/1544-make-the-string-great) |
 | [1768-merge-strings-alternately](https://github.com/DhannuSingh/DSA/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DhannuSingh/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/DhannuSingh/DSA/tree/master/2000-reverse-prefix-of-word) |
@@ -162,6 +163,7 @@ Learning...
 | [0234-palindrome-linked-list](https://github.com/DhannuSingh/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/DhannuSingh/DSA/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/DhannuSingh/DSA/tree/master/0844-backspace-string-compare) |
+| [1544-make-the-string-great](https://github.com/DhannuSingh/DSA/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/DhannuSingh/DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Simulation
 |  |
