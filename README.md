@@ -129,6 +129,7 @@ Learning...
 | [1539-kth-missing-positive-number](https://github.com/DhannuSingh/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DhannuSingh/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/DhannuSingh/DSA/tree/master/1695-maximum-erasure-value) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/DhannuSingh/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/DhannuSingh/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DhannuSingh/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/DhannuSingh/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -164,12 +165,14 @@ Learning...
 | [0496-next-greater-element-i](https://github.com/DhannuSingh/DSA/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/DhannuSingh/DSA/tree/master/0844-backspace-string-compare) |
 | [1544-make-the-string-great](https://github.com/DhannuSingh/DSA/tree/master/1544-make-the-string-great) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/DhannuSingh/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/DhannuSingh/DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/DhannuSingh/DSA/tree/master/0043-multiply-strings) |
 | [0844-backspace-string-compare](https://github.com/DhannuSingh/DSA/tree/master/0844-backspace-string-compare) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/DhannuSingh/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -413,4 +416,5 @@ Learning...
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/DhannuSingh/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DhannuSingh/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/DhannuSingh/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
