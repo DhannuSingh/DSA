@@ -157,6 +157,7 @@ Learning...
 | [0020-valid-parentheses](https://github.com/DhannuSingh/DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/DhannuSingh/DSA/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/DhannuSingh/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/DhannuSingh/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/DhannuSingh/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/DhannuSingh/DSA/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/DhannuSingh/DSA/tree/master/0844-backspace-string-compare) |
@@ -340,6 +341,7 @@ Learning...
 | ------- |
 | [0146-lru-cache](https://github.com/DhannuSingh/DSA/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/DhannuSingh/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/DhannuSingh/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/DhannuSingh/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0707-design-linked-list](https://github.com/DhannuSingh/DSA/tree/master/0707-design-linked-list) |
 ## Interactive
@@ -406,4 +408,5 @@ Learning...
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/DhannuSingh/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/DhannuSingh/DSA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
