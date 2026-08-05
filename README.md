@@ -160,6 +160,7 @@ Learning...
 | [0020-valid-parentheses](https://github.com/DhannuSingh/DSA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/DhannuSingh/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/DhannuSingh/DSA/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/DhannuSingh/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/DhannuSingh/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DhannuSingh/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/DhannuSingh/DSA/tree/master/0234-palindrome-linked-list) |
@@ -424,12 +425,14 @@ Learning...
 | [0094-binary-tree-inorder-traversal](https://github.com/DhannuSingh/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DhannuSingh/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DhannuSingh/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/DhannuSingh/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DhannuSingh/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DhannuSingh/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DhannuSingh/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/DhannuSingh/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -441,4 +444,5 @@ Learning...
 | [0094-binary-tree-inorder-traversal](https://github.com/DhannuSingh/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DhannuSingh/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DhannuSingh/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/DhannuSingh/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
