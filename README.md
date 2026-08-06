@@ -431,6 +431,7 @@ Learning...
 | [0112-path-sum](https://github.com/DhannuSingh/DSA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DhannuSingh/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DhannuSingh/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/DhannuSingh/DSA/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -442,6 +443,7 @@ Learning...
 | [0112-path-sum](https://github.com/DhannuSingh/DSA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DhannuSingh/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DhannuSingh/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/DhannuSingh/DSA/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -449,6 +451,7 @@ Learning...
 | [0104-maximum-depth-of-binary-tree](https://github.com/DhannuSingh/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DhannuSingh/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/DhannuSingh/DSA/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/DhannuSingh/DSA/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -460,4 +463,5 @@ Learning...
 | [0112-path-sum](https://github.com/DhannuSingh/DSA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DhannuSingh/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DhannuSingh/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/DhannuSingh/DSA/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
