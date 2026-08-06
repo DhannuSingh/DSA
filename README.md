@@ -288,6 +288,7 @@ Learning...
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/DhannuSingh/DSA/tree/master/0187-repeated-dna-sequences) |
+| [0572-subtree-of-another-tree](https://github.com/DhannuSingh/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -436,6 +437,7 @@ Learning...
 | [0257-binary-tree-paths](https://github.com/DhannuSingh/DSA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/DhannuSingh/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/DhannuSingh/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/DhannuSingh/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -451,6 +453,7 @@ Learning...
 | [0257-binary-tree-paths](https://github.com/DhannuSingh/DSA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/DhannuSingh/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/DhannuSingh/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/DhannuSingh/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -475,6 +478,7 @@ Learning...
 | [0257-binary-tree-paths](https://github.com/DhannuSingh/DSA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/DhannuSingh/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/DhannuSingh/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/DhannuSingh/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -483,4 +487,8 @@ Learning...
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/DhannuSingh/DSA/tree/master/0543-diameter-of-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/DhannuSingh/DSA/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
