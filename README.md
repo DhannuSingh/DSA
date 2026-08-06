@@ -435,6 +435,7 @@ Learning...
 | [0226-invert-binary-tree](https://github.com/DhannuSingh/DSA/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/DhannuSingh/DSA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/DhannuSingh/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/DhannuSingh/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -449,6 +450,7 @@ Learning...
 | [0226-invert-binary-tree](https://github.com/DhannuSingh/DSA/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/DhannuSingh/DSA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/DhannuSingh/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/DhannuSingh/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -472,8 +474,13 @@ Learning...
 | [0226-invert-binary-tree](https://github.com/DhannuSingh/DSA/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/DhannuSingh/DSA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/DhannuSingh/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/DhannuSingh/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/DhannuSingh/DSA/tree/master/0257-binary-tree-paths) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/DhannuSingh/DSA/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
