@@ -52,6 +52,7 @@ Learning...
 | [0125-valid-palindrome](https://github.com/DhannuSingh/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/DhannuSingh/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/DhannuSingh/DSA/tree/master/0187-repeated-dna-sequences) |
+| [0257-binary-tree-paths](https://github.com/DhannuSingh/DSA/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DhannuSingh/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/DhannuSingh/DSA/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/DhannuSingh/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -432,6 +433,7 @@ Learning...
 | [0144-binary-tree-preorder-traversal](https://github.com/DhannuSingh/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DhannuSingh/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/DhannuSingh/DSA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/DhannuSingh/DSA/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -444,6 +446,7 @@ Learning...
 | [0144-binary-tree-preorder-traversal](https://github.com/DhannuSingh/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DhannuSingh/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/DhannuSingh/DSA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/DhannuSingh/DSA/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -464,4 +467,9 @@ Learning...
 | [0144-binary-tree-preorder-traversal](https://github.com/DhannuSingh/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DhannuSingh/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/DhannuSingh/DSA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/DhannuSingh/DSA/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/DhannuSingh/DSA/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
