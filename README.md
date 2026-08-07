@@ -95,6 +95,7 @@ Learning...
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DhannuSingh/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/DhannuSingh/DSA/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DhannuSingh/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/DhannuSingh/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DhannuSingh/DSA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/DhannuSingh/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DhannuSingh/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -148,6 +149,7 @@ Learning...
 | [0018-4sum](https://github.com/DhannuSingh/DSA/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/DhannuSingh/DSA/tree/master/0049-group-anagrams) |
 | [0147-insertion-sort-list](https://github.com/DhannuSingh/DSA/tree/master/0147-insertion-sort-list) |
+| [0268-missing-number](https://github.com/DhannuSingh/DSA/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DhannuSingh/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/DhannuSingh/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0922-sort-array-by-parity-ii](https://github.com/DhannuSingh/DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -198,6 +200,7 @@ Learning...
 | [0187-repeated-dna-sequences](https://github.com/DhannuSingh/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/DhannuSingh/DSA/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/DhannuSingh/DSA/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/DhannuSingh/DSA/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/DhannuSingh/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DhannuSingh/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DhannuSingh/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -256,6 +259,7 @@ Learning...
 | [0189-rotate-array](https://github.com/DhannuSingh/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/DhannuSingh/DSA/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/DhannuSingh/DSA/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/DhannuSingh/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/DhannuSingh/DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/DhannuSingh/DSA/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/DhannuSingh/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -281,6 +285,7 @@ Learning...
 | ------- |
 | [0029-divide-two-integers](https://github.com/DhannuSingh/DSA/tree/master/0029-divide-two-integers) |
 | [0187-repeated-dna-sequences](https://github.com/DhannuSingh/DSA/tree/master/0187-repeated-dna-sequences) |
+| [0268-missing-number](https://github.com/DhannuSingh/DSA/tree/master/0268-missing-number) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -302,6 +307,7 @@ Learning...
 | [0162-find-peak-element](https://github.com/DhannuSingh/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DhannuSingh/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DhannuSingh/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/DhannuSingh/DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/DhannuSingh/DSA/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/DhannuSingh/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/DhannuSingh/DSA/tree/master/0374-guess-number-higher-or-lower) |
