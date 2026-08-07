@@ -108,6 +108,7 @@ Learning...
 | [0540-single-element-in-a-sorted-array](https://github.com/DhannuSingh/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0554-brick-wall](https://github.com/DhannuSingh/DSA/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/DhannuSingh/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/DhannuSingh/DSA/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/DhannuSingh/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/DhannuSingh/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/DhannuSingh/DSA/tree/master/0724-find-pivot-index) |
@@ -153,6 +154,7 @@ Learning...
 | [0268-missing-number](https://github.com/DhannuSingh/DSA/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DhannuSingh/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/DhannuSingh/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0645-set-mismatch](https://github.com/DhannuSingh/DSA/tree/master/0645-set-mismatch) |
 | [0922-sort-array-by-parity-ii](https://github.com/DhannuSingh/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/DhannuSingh/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DhannuSingh/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -213,6 +215,7 @@ Learning...
 | [0554-brick-wall](https://github.com/DhannuSingh/DSA/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/DhannuSingh/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/DhannuSingh/DSA/tree/master/0567-permutation-in-string) |
+| [0645-set-mismatch](https://github.com/DhannuSingh/DSA/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/DhannuSingh/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/DhannuSingh/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/DhannuSingh/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -288,6 +291,7 @@ Learning...
 | [0029-divide-two-integers](https://github.com/DhannuSingh/DSA/tree/master/0029-divide-two-integers) |
 | [0187-repeated-dna-sequences](https://github.com/DhannuSingh/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/DhannuSingh/DSA/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/DhannuSingh/DSA/tree/master/0645-set-mismatch) |
 ## Rolling Hash
 |  |
 | ------- |
