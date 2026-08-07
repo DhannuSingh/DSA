@@ -442,6 +442,7 @@ Learning...
 | [0617-merge-two-binary-trees](https://github.com/DhannuSingh/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0872-leaf-similar-trees](https://github.com/DhannuSingh/DSA/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/DhannuSingh/DSA/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/DhannuSingh/DSA/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -461,6 +462,7 @@ Learning...
 | [0617-merge-two-binary-trees](https://github.com/DhannuSingh/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0872-leaf-similar-trees](https://github.com/DhannuSingh/DSA/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/DhannuSingh/DSA/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/DhannuSingh/DSA/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -490,6 +492,7 @@ Learning...
 | [0617-merge-two-binary-trees](https://github.com/DhannuSingh/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0872-leaf-similar-trees](https://github.com/DhannuSingh/DSA/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/DhannuSingh/DSA/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/DhannuSingh/DSA/tree/master/0938-range-sum-of-bst) |
 ## Backtracking
 |  |
 | ------- |
@@ -506,4 +509,5 @@ Learning...
 |  |
 | ------- |
 | [0897-increasing-order-search-tree](https://github.com/DhannuSingh/DSA/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/DhannuSingh/DSA/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
