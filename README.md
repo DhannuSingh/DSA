@@ -439,6 +439,7 @@ Learning...
 | [0543-diameter-of-binary-tree](https://github.com/DhannuSingh/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/DhannuSingh/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/DhannuSingh/DSA/tree/master/0617-merge-two-binary-trees) |
+| [0872-leaf-similar-trees](https://github.com/DhannuSingh/DSA/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -456,6 +457,7 @@ Learning...
 | [0543-diameter-of-binary-tree](https://github.com/DhannuSingh/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/DhannuSingh/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/DhannuSingh/DSA/tree/master/0617-merge-two-binary-trees) |
+| [0872-leaf-similar-trees](https://github.com/DhannuSingh/DSA/tree/master/0872-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -483,6 +485,7 @@ Learning...
 | [0543-diameter-of-binary-tree](https://github.com/DhannuSingh/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/DhannuSingh/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/DhannuSingh/DSA/tree/master/0617-merge-two-binary-trees) |
+| [0872-leaf-similar-trees](https://github.com/DhannuSingh/DSA/tree/master/0872-leaf-similar-trees) |
 ## Backtracking
 |  |
 | ------- |
