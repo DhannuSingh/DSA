@@ -168,6 +168,7 @@ Learning...
 | [0234-palindrome-linked-list](https://github.com/DhannuSingh/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/DhannuSingh/DSA/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/DhannuSingh/DSA/tree/master/0844-backspace-string-compare) |
+| [0897-increasing-order-search-tree](https://github.com/DhannuSingh/DSA/tree/master/0897-increasing-order-search-tree) |
 | [1544-make-the-string-great](https://github.com/DhannuSingh/DSA/tree/master/1544-make-the-string-great) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DhannuSingh/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/DhannuSingh/DSA/tree/master/2000-reverse-prefix-of-word) |
@@ -440,6 +441,7 @@ Learning...
 | [0572-subtree-of-another-tree](https://github.com/DhannuSingh/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/DhannuSingh/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0872-leaf-similar-trees](https://github.com/DhannuSingh/DSA/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/DhannuSingh/DSA/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -458,6 +460,7 @@ Learning...
 | [0572-subtree-of-another-tree](https://github.com/DhannuSingh/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/DhannuSingh/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0872-leaf-similar-trees](https://github.com/DhannuSingh/DSA/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/DhannuSingh/DSA/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -486,6 +489,7 @@ Learning...
 | [0572-subtree-of-another-tree](https://github.com/DhannuSingh/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/DhannuSingh/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0872-leaf-similar-trees](https://github.com/DhannuSingh/DSA/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/DhannuSingh/DSA/tree/master/0897-increasing-order-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -498,4 +502,8 @@ Learning...
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/DhannuSingh/DSA/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0897-increasing-order-search-tree](https://github.com/DhannuSingh/DSA/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
