@@ -119,6 +119,7 @@ Learning...
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/DhannuSingh/DSA/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0821-shortest-distance-to-a-character](https://github.com/DhannuSingh/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DhannuSingh/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/DhannuSingh/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/DhannuSingh/DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/DhannuSingh/DSA/tree/master/0904-fruit-into-baskets) |
 | [0922-sort-array-by-parity-ii](https://github.com/DhannuSingh/DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -243,6 +244,7 @@ Learning...
 | [0480-sliding-window-median](https://github.com/DhannuSingh/DSA/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/DhannuSingh/DSA/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/DhannuSingh/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/DhannuSingh/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/DhannuSingh/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/DhannuSingh/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/DhannuSingh/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -291,6 +293,7 @@ Learning...
 | [0347-top-k-frequent-elements](https://github.com/DhannuSingh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/DhannuSingh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/DhannuSingh/DSA/tree/master/0480-sliding-window-median) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/DhannuSingh/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1046-last-stone-weight](https://github.com/DhannuSingh/DSA/tree/master/1046-last-stone-weight) |
 ## Union-Find
 |  |
@@ -339,6 +342,7 @@ Learning...
 | [0704-binary-search](https://github.com/DhannuSingh/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/DhannuSingh/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DhannuSingh/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/DhannuSingh/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/DhannuSingh/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/DhannuSingh/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/DhannuSingh/DSA/tree/master/1208-get-equal-substrings-within-budget) |
@@ -365,6 +369,7 @@ Learning...
 | [0560-subarray-sum-equals-k](https://github.com/DhannuSingh/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/DhannuSingh/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/DhannuSingh/DSA/tree/master/0724-find-pivot-index) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/DhannuSingh/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/DhannuSingh/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/DhannuSingh/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/DhannuSingh/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -453,6 +458,7 @@ Learning...
 | [0225-implement-stack-using-queues](https://github.com/DhannuSingh/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DhannuSingh/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/DhannuSingh/DSA/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/DhannuSingh/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DhannuSingh/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Tree
 |  |
@@ -570,6 +576,7 @@ Learning...
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/DhannuSingh/DSA/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/DhannuSingh/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
