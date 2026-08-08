@@ -98,6 +98,7 @@ Learning...
 | [0268-missing-number](https://github.com/DhannuSingh/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DhannuSingh/DSA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/DhannuSingh/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/DhannuSingh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DhannuSingh/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DhannuSingh/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0457-circular-array-loop](https://github.com/DhannuSingh/DSA/tree/master/0457-circular-array-loop) |
@@ -152,6 +153,7 @@ Learning...
 | [0049-group-anagrams](https://github.com/DhannuSingh/DSA/tree/master/0049-group-anagrams) |
 | [0147-insertion-sort-list](https://github.com/DhannuSingh/DSA/tree/master/0147-insertion-sort-list) |
 | [0268-missing-number](https://github.com/DhannuSingh/DSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/DhannuSingh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DhannuSingh/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/DhannuSingh/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0645-set-mismatch](https://github.com/DhannuSingh/DSA/tree/master/0645-set-mismatch) |
@@ -204,6 +206,7 @@ Learning...
 | [0202-happy-number](https://github.com/DhannuSingh/DSA/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/DhannuSingh/DSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/DhannuSingh/DSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/DhannuSingh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/DhannuSingh/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DhannuSingh/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DhannuSingh/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -253,6 +256,7 @@ Learning...
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/DhannuSingh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DhannuSingh/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Math
 |  |
@@ -274,6 +278,7 @@ Learning...
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/DhannuSingh/DSA/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/DhannuSingh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1046-last-stone-weight](https://github.com/DhannuSingh/DSA/tree/master/1046-last-stone-weight) |
 ## Union-Find
 |  |
@@ -409,6 +414,7 @@ Learning...
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DhannuSingh/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DhannuSingh/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/DhannuSingh/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Database
 |  |
 | ------- |
@@ -538,4 +544,12 @@ Learning...
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DhannuSingh/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/DhannuSingh/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/DhannuSingh/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
