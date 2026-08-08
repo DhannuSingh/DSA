@@ -131,6 +131,7 @@ Learning...
 | [1004-max-consecutive-ones-iii](https://github.com/DhannuSingh/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/DhannuSingh/DSA/tree/master/1046-last-stone-weight) |
 | [1052-grumpy-bookstore-owner](https://github.com/DhannuSingh/DSA/tree/master/1052-grumpy-bookstore-owner) |
+| [1095-find-in-mountain-array](https://github.com/DhannuSingh/DSA/tree/master/1095-find-in-mountain-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/DhannuSingh/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DhannuSingh/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DhannuSingh/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -350,6 +351,7 @@ Learning...
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/DhannuSingh/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/DhannuSingh/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/DhannuSingh/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1095-find-in-mountain-array](https://github.com/DhannuSingh/DSA/tree/master/1095-find-in-mountain-array) |
 | [1208-get-equal-substrings-within-budget](https://github.com/DhannuSingh/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DhannuSingh/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/DhannuSingh/DSA/tree/master/1539-kth-missing-positive-number) |
@@ -403,6 +405,7 @@ Learning...
 | ------- |
 | [0278-first-bad-version](https://github.com/DhannuSingh/DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/DhannuSingh/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [1095-find-in-mountain-array](https://github.com/DhannuSingh/DSA/tree/master/1095-find-in-mountain-array) |
 ## Linked List
 |  |
 | ------- |
@@ -592,4 +595,8 @@ Learning...
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/DhannuSingh/DSA/tree/master/0480-sliding-window-median) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/DhannuSingh/DSA/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
