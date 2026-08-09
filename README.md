@@ -110,6 +110,7 @@ Learning...
 | [0457-circular-array-loop](https://github.com/DhannuSingh/DSA/tree/master/0457-circular-array-loop) |
 | [0480-sliding-window-median](https://github.com/DhannuSingh/DSA/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/DhannuSingh/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/DhannuSingh/DSA/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/DhannuSingh/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/DhannuSingh/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/DhannuSingh/DSA/tree/master/0525-contiguous-array) |
@@ -188,6 +189,7 @@ Learning...
 | [0232-implement-queue-using-stacks](https://github.com/DhannuSingh/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/DhannuSingh/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/DhannuSingh/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/DhannuSingh/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/DhannuSingh/DSA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/DhannuSingh/DSA/tree/master/0844-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/DhannuSingh/DSA/tree/master/0897-increasing-order-search-tree) |
@@ -479,6 +481,7 @@ Learning...
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/DhannuSingh/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/DhannuSingh/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/DhannuSingh/DSA/tree/master/0739-daily-temperatures) |
 ## Queue
 |  |
