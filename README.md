@@ -111,6 +111,7 @@ Learning...
 | [0410-split-array-largest-sum](https://github.com/DhannuSingh/DSA/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DhannuSingh/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DhannuSingh/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0456-132-pattern](https://github.com/DhannuSingh/DSA/tree/master/0456-132-pattern) |
 | [0457-circular-array-loop](https://github.com/DhannuSingh/DSA/tree/master/0457-circular-array-loop) |
 | [0480-sliding-window-median](https://github.com/DhannuSingh/DSA/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/DhannuSingh/DSA/tree/master/0496-next-greater-element-i) |
@@ -197,6 +198,7 @@ Learning...
 | [0234-palindrome-linked-list](https://github.com/DhannuSingh/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/DhannuSingh/DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/DhannuSingh/DSA/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/DhannuSingh/DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/DhannuSingh/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DhannuSingh/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/DhannuSingh/DSA/tree/master/0739-daily-temperatures) |
@@ -366,6 +368,7 @@ Learning...
 | [0374-guess-number-higher-or-lower](https://github.com/DhannuSingh/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/DhannuSingh/DSA/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/DhannuSingh/DSA/tree/master/0441-arranging-coins) |
+| [0456-132-pattern](https://github.com/DhannuSingh/DSA/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DhannuSingh/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/DhannuSingh/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/DhannuSingh/DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -496,6 +499,7 @@ Learning...
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/DhannuSingh/DSA/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/DhannuSingh/DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/DhannuSingh/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DhannuSingh/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/DhannuSingh/DSA/tree/master/0739-daily-temperatures) |
@@ -674,4 +678,8 @@ Learning...
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/DhannuSingh/DSA/tree/master/0901-online-stock-span) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/DhannuSingh/DSA/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
