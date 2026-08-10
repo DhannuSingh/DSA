@@ -69,6 +69,7 @@ Learning...
 | [0680-valid-palindrome-ii](https://github.com/DhannuSingh/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/DhannuSingh/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/DhannuSingh/DSA/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/DhannuSingh/DSA/tree/master/0856-score-of-parentheses) |
 | [0925-long-pressed-name](https://github.com/DhannuSingh/DSA/tree/master/0925-long-pressed-name) |
 | [1208-get-equal-substrings-within-budget](https://github.com/DhannuSingh/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DhannuSingh/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -203,6 +204,7 @@ Learning...
 | [0503-next-greater-element-ii](https://github.com/DhannuSingh/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/DhannuSingh/DSA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/DhannuSingh/DSA/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/DhannuSingh/DSA/tree/master/0856-score-of-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/DhannuSingh/DSA/tree/master/0897-increasing-order-search-tree) |
 | [0901-online-stock-span](https://github.com/DhannuSingh/DSA/tree/master/0901-online-stock-span) |
 | [1544-make-the-string-great](https://github.com/DhannuSingh/DSA/tree/master/1544-make-the-string-great) |
@@ -495,6 +497,7 @@ Learning...
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DhannuSingh/DSA/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/DhannuSingh/DSA/tree/master/0856-score-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
