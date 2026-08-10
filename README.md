@@ -58,6 +58,7 @@ Learning...
 | [0257-binary-tree-paths](https://github.com/DhannuSingh/DSA/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DhannuSingh/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/DhannuSingh/DSA/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/DhannuSingh/DSA/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/DhannuSingh/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DhannuSingh/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/DhannuSingh/DSA/tree/master/0443-string-compression) |
@@ -193,6 +194,7 @@ Learning...
 | [0225-implement-stack-using-queues](https://github.com/DhannuSingh/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DhannuSingh/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/DhannuSingh/DSA/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/DhannuSingh/DSA/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/DhannuSingh/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DhannuSingh/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/DhannuSingh/DSA/tree/master/0739-daily-temperatures) |
@@ -462,6 +464,7 @@ Learning...
 | [0203-remove-linked-list-elements](https://github.com/DhannuSingh/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/DhannuSingh/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/DhannuSingh/DSA/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/DhannuSingh/DSA/tree/master/0394-decode-string) |
 ## Divide and Conquer
 |  |
 | ------- |
