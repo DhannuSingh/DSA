@@ -193,6 +193,7 @@ Learning...
 | [0739-daily-temperatures](https://github.com/DhannuSingh/DSA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/DhannuSingh/DSA/tree/master/0844-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/DhannuSingh/DSA/tree/master/0897-increasing-order-search-tree) |
+| [0901-online-stock-span](https://github.com/DhannuSingh/DSA/tree/master/0901-online-stock-span) |
 | [1544-make-the-string-great](https://github.com/DhannuSingh/DSA/tree/master/1544-make-the-string-great) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DhannuSingh/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/DhannuSingh/DSA/tree/master/2000-reverse-prefix-of-word) |
@@ -413,6 +414,7 @@ Learning...
 | [0232-implement-queue-using-stacks](https://github.com/DhannuSingh/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/DhannuSingh/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0707-design-linked-list](https://github.com/DhannuSingh/DSA/tree/master/0707-design-linked-list) |
+| [0901-online-stock-span](https://github.com/DhannuSingh/DSA/tree/master/0901-online-stock-span) |
 ## Interactive
 |  |
 | ------- |
@@ -483,6 +485,7 @@ Learning...
 | [0496-next-greater-element-i](https://github.com/DhannuSingh/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DhannuSingh/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/DhannuSingh/DSA/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/DhannuSingh/DSA/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -653,4 +656,8 @@ Learning...
 |  |
 | ------- |
 | [1201-ugly-number-iii](https://github.com/DhannuSingh/DSA/tree/master/1201-ugly-number-iii) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/DhannuSingh/DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
