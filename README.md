@@ -144,6 +144,7 @@ Learning...
 | [0904-fruit-into-baskets](https://github.com/DhannuSingh/DSA/tree/master/0904-fruit-into-baskets) |
 | [0922-sort-array-by-parity-ii](https://github.com/DhannuSingh/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/DhannuSingh/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/DhannuSingh/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/DhannuSingh/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/DhannuSingh/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/DhannuSingh/DSA/tree/master/0986-interval-list-intersections) |
@@ -190,6 +191,7 @@ Learning...
 | [0645-set-mismatch](https://github.com/DhannuSingh/DSA/tree/master/0645-set-mismatch) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/DhannuSingh/DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0922-sort-array-by-parity-ii](https://github.com/DhannuSingh/DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/DhannuSingh/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/DhannuSingh/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DhannuSingh/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DhannuSingh/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -327,6 +329,7 @@ Learning...
 | [0367-valid-perfect-square](https://github.com/DhannuSingh/DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/DhannuSingh/DSA/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/DhannuSingh/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/DhannuSingh/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1201-ugly-number-iii](https://github.com/DhannuSingh/DSA/tree/master/1201-ugly-number-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/DhannuSingh/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DhannuSingh/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -342,6 +345,7 @@ Learning...
 | [0480-sliding-window-median](https://github.com/DhannuSingh/DSA/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/DhannuSingh/DSA/tree/master/0621-task-scheduler) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/DhannuSingh/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0973-k-closest-points-to-origin](https://github.com/DhannuSingh/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/DhannuSingh/DSA/tree/master/1046-last-stone-weight) |
 ## Union-Find
 |  |
@@ -502,6 +506,7 @@ Learning...
 | [0215-kth-largest-element-in-an-array](https://github.com/DhannuSingh/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DhannuSingh/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/DhannuSingh/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/DhannuSingh/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Database
 |  |
 | ------- |
@@ -650,6 +655,7 @@ Learning...
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DhannuSingh/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/DhannuSingh/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/DhannuSingh/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -716,4 +722,12 @@ Learning...
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/DhannuSingh/DSA/tree/master/0986-interval-list-intersections) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/DhannuSingh/DSA/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/DhannuSingh/DSA/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
