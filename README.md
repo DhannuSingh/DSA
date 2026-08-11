@@ -128,6 +128,7 @@ Learning...
 | [0540-single-element-in-a-sorted-array](https://github.com/DhannuSingh/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0554-brick-wall](https://github.com/DhannuSingh/DSA/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/DhannuSingh/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/DhannuSingh/DSA/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/DhannuSingh/DSA/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/DhannuSingh/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/DhannuSingh/DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -185,6 +186,7 @@ Learning...
 | [0442-find-all-duplicates-in-an-array](https://github.com/DhannuSingh/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/DhannuSingh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/DhannuSingh/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0621-task-scheduler](https://github.com/DhannuSingh/DSA/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/DhannuSingh/DSA/tree/master/0645-set-mismatch) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/DhannuSingh/DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0922-sort-array-by-parity-ii](https://github.com/DhannuSingh/DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -264,6 +266,7 @@ Learning...
 | [0554-brick-wall](https://github.com/DhannuSingh/DSA/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/DhannuSingh/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/DhannuSingh/DSA/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/DhannuSingh/DSA/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/DhannuSingh/DSA/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/DhannuSingh/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/DhannuSingh/DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -307,6 +310,7 @@ Learning...
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/DhannuSingh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/DhannuSingh/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/DhannuSingh/DSA/tree/master/0621-task-scheduler) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DhannuSingh/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Math
 |  |
@@ -336,6 +340,7 @@ Learning...
 | [0347-top-k-frequent-elements](https://github.com/DhannuSingh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/DhannuSingh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/DhannuSingh/DSA/tree/master/0480-sliding-window-median) |
+| [0621-task-scheduler](https://github.com/DhannuSingh/DSA/tree/master/0621-task-scheduler) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/DhannuSingh/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1046-last-stone-weight](https://github.com/DhannuSingh/DSA/tree/master/1046-last-stone-weight) |
 ## Union-Find
@@ -408,6 +413,7 @@ Learning...
 | [0011-container-with-most-water](https://github.com/DhannuSingh/DSA/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/DhannuSingh/DSA/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/DhannuSingh/DSA/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/DhannuSingh/DSA/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/DhannuSingh/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DhannuSingh/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DhannuSingh/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
