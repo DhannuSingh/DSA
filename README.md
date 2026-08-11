@@ -93,6 +93,7 @@ Learning...
 | [0035-search-insert-position](https://github.com/DhannuSingh/DSA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/DhannuSingh/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/DhannuSingh/DSA/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/DhannuSingh/DSA/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/DhannuSingh/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DhannuSingh/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DhannuSingh/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -169,6 +170,7 @@ Learning...
 | [0016-3sum-closest](https://github.com/DhannuSingh/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/DhannuSingh/DSA/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/DhannuSingh/DSA/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/DhannuSingh/DSA/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/DhannuSingh/DSA/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/DhannuSingh/DSA/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/DhannuSingh/DSA/tree/master/0268-missing-number) |
@@ -685,4 +687,8 @@ Learning...
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/DhannuSingh/DSA/tree/master/0456-132-pattern) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/DhannuSingh/DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
