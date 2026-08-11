@@ -71,6 +71,7 @@ Learning...
 | [0821-shortest-distance-to-a-character](https://github.com/DhannuSingh/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/DhannuSingh/DSA/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/DhannuSingh/DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/DhannuSingh/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/DhannuSingh/DSA/tree/master/0925-long-pressed-name) |
 | [1208-get-equal-substrings-within-budget](https://github.com/DhannuSingh/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DhannuSingh/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -214,6 +215,7 @@ Learning...
 | [0856-score-of-parentheses](https://github.com/DhannuSingh/DSA/tree/master/0856-score-of-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/DhannuSingh/DSA/tree/master/0897-increasing-order-search-tree) |
 | [0901-online-stock-span](https://github.com/DhannuSingh/DSA/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/DhannuSingh/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1544-make-the-string-great](https://github.com/DhannuSingh/DSA/tree/master/1544-make-the-string-great) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DhannuSingh/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/DhannuSingh/DSA/tree/master/2000-reverse-prefix-of-word) |
@@ -404,6 +406,7 @@ Learning...
 | [0402-remove-k-digits](https://github.com/DhannuSingh/DSA/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/DhannuSingh/DSA/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/DhannuSingh/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/DhannuSingh/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DhannuSingh/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DhannuSingh/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Prefix Sum
@@ -506,6 +509,7 @@ Learning...
 | ------- |
 | [0020-valid-parentheses](https://github.com/DhannuSingh/DSA/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/DhannuSingh/DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/DhannuSingh/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
